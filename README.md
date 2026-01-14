@@ -1,4 +1,3 @@
-Visit 
 ## 🌐 Sito Web
 
 Puoi trovare maggiori informazioni sul nostro progetto qui:  
